@@ -20,7 +20,7 @@ Set-ExecutionPolicy Bypass
 ./install.ps1
 ```
 
-# 2: SCOOP
+# 2: [SCOOP](https://scoop.sh/)
 
 ### 2.1 Abra o PowerShell em modo de administrador e execute:
 ```powershell
